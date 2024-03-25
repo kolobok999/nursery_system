@@ -1,0 +1,20 @@
+Barbos dog
+Murka cat
+Fido dog
+Whiskers cat
+Hammy hamster
+Buddy dog
+Smudge cat
+Peanut hamster
+Bella dog
+Oliver cat
+
+Thunder horse
+Sandy camel
+Eeore donkey
+Storm horse
+Dune camel
+Burro donkey
+Blaze horse
+Sahara camel
+
